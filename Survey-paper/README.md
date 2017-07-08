@@ -4,7 +4,7 @@ The topic of my dissertation is recommendation system.
 I collected some classic and awesome papers here.
 Good luck to every RecSys-learner.
 
-My email is ZhangYuyang4d@163.com.
+My email is waveletbob@gmail.com.
 If you find any mistakes, 
 or you have some suggestions,
 just send a email to me. 
@@ -18,7 +18,16 @@ I will continue to update this section for a while till I finish my dissertation
 Maybe some papers of this section can't be downloaded,
 please email me and I will send the pdf to you.
 
-Email again:    [ZhangYuyang4d@163.com](ZhangYuyang4d@163.com)
+Email again:    [waveletbob@163.com](waveletbob@gmail.com)
+
+### Conference
+- KDD
+- ICDM
+- RecSys
+- SIGIR
+- WSDM
+- WWWW
+- Other
 
 ### ICLR 2017
 - Collaborative Deep Embedding via Dual Networks (2017), Yilei Xiong, Dahua Lin, et al.
